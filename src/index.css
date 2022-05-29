@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: rgb(230 230 230 / var(--tw-bg-opacity));
+  font-family: sans-serif;
+  font-size: 17px;
+}
